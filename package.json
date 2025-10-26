@@ -1,0 +1,22 @@
+{
+  "name": "blockmine-api",
+  "version": "1.0.0",
+  "description": "High-level SDK for BlockMine Bot WebSocket API",
+  "main": "src/index.js",
+  "keywords": ["blockmine", "minecraft", "bot", "api", "websocket"],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blockmineJS/blockmine"
+  },
+  "scripts": {
+    "example:basic": "node examples/basic.js",
+    "example:raw": "node examples/raw-messages.js",
+    "example:chatbot": "node examples/chatbot.js",
+    "example:command": "node examples/execute-command.js"
+  },
+  "dependencies": {
+    "socket.io-client": "^4.8.1"
+  }
+}
