@@ -1,5 +1,7 @@
 # BlockMine Bot API
 
+> ⚠️ **АХТУНГ**: ПРИМЕРЫ СГЕНЕРИРОВАНЫ CLAUDE.
+
 Высокоуровневый SDK для работы с BlockMine Bot WebSocket API.
 
 ## Установка
