@@ -4,7 +4,7 @@ const { EventEmitter } = require('events');
 /**
  * Высокоуровневый клиент для BlockMind Bot API
  */
-class BlockMindBot extends EventEmitter {
+class BlockMineBot extends EventEmitter {
     constructor(options) {
         super();
 
@@ -441,4 +441,4 @@ class BlockMindBot extends EventEmitter {
     }
 }
 
-module.exports = BlockMindBot;
+module.exports = BlockMineBot;

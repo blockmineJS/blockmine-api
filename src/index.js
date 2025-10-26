@@ -1,4 +1,3 @@
-const BlockMindBot = require('./BlockMindBot');
+const BlockMineBot = require('./BlockMineBot');
 
-module.exports = BlockMindBot;
-module.exports.BlockMindBot = BlockMindBot;
+module.exports = BlockMineBot;
